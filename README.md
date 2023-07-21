@@ -7,6 +7,8 @@
 <img width="941" alt="saved" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/086fa3b0-fa96-414c-b366-0b50f18dde56">
 <img width="959" alt="delete" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/6c5e8af8-6cb8-4b5f-a43a-1b3b48a08a9f">
 <img width="959" alt="customer" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/842f41e6-da7b-4708-8f98-55671ce8d66c">
+<img width="930" alt="image" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/823fee49-65e8-4992-932e-5c524add7ecd">
+
 
 
 
