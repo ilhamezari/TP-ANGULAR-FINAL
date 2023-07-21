@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+
+<<< HEAD
+<<<<<img width="889" alt="login" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/7541d2d1-3d56-45a5-b01b-9cbebde4297a">
+<img width="958" alt="account" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/e8a17e3a-aa07-467b-be04-7a26f8566411">
+<img width="941" alt="saved" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/086fa3b0-fa96-414c-b366-0b50f18dde56">
+<img width="959" alt="customer" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/842f41e6-da7b-4708-8f98-55671ce8d66c">
+<img width="959" alt="delete" src="https://github.com/ilhamezari/TP-ANGULAR-FINAL/assets/119487198/6c5e8af8-6cb8-4b5f-a43a-1b3b48a08a9f">
+
 # TP-ANGULAR-FINAL
 digital-banking-web
 =======
